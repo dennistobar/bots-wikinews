@@ -11,6 +11,7 @@ load_dotenv()
 idiomas = {
     # 'es': (u'Indicadores económicos/core', u'Actualizando Indices Bursátiles', u'¡Avisame si hay error', u'Plantilla:Indicadores económicos', u'{{uso de plantilla}}'),
     'fr': (u'Modèle:Exchange Rates/core ', u'Mise à Taux de Change ', u'Comments (es.wikinews)', u'Modèle:Exchange Rates', u''),
+    'en': (u'User:Angelicadia/Sandbox/Exchange Rates/core ', u'Updating Exchange Rates', u'Comments (es.wikinews)', u'User:Angelicadia/Sandbox/Exchange rates/EUR', u''),
 }
 
 meses = {
